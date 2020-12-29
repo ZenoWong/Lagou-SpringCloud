@@ -1,0 +1,4 @@
+mysql:
+  url: dev-http://locahost:3306/db
+lagou:
+  message: Hello!
